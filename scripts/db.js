@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 const defaultFirebaseConfig = {
-=======
-const firebaseConfig = {
->>>>>>> b53e3a6494a412b686d294c9fc4755ccb708ae47
   apiKey: "AIzaSyAPXuwNBWi8_c6MR99XE7eYniqLESEa9EQ",
   authDomain: "join-d26ee.firebaseapp.com",
   databaseURL: "https://join-d26ee-default-rtdb.europe-west1.firebasedatabase.app",
@@ -18,6 +14,3 @@ if (!firebase.apps.length) {
 }
 
 const db = firebase.database();
-
-
-
