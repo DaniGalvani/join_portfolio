@@ -1,6 +1,6 @@
 # Join
 
-Join ist eine responsive Kanban-Projektmanagement-App, die im Rahmen der Developer Akademie Weiterbildung entstanden ist. Die App bietet Login, Registrierung, Kontaktverwaltung, Task-Erstellung, Board-Ansicht und eine Summary-Uebersicht. Daten werden ueber Firebase Authentication und die Firebase Realtime Database verwaltet; fuer den Gastzugang werden Aufgaben lokal im Browser gespeichert.
+Join ist eine responsive Kanban-Projektmanagement-App. Die App bietet Login, Registrierung, Kontaktverwaltung, Task-Erstellung, Board-Ansicht und eine Summary-Uebersicht. Daten werden ueber Firebase Authentication und die Firebase Realtime Database verwaltet; fuer den Gastzugang werden Aufgaben lokal im Browser gespeichert.
 
 ## Features
 

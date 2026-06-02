@@ -10,16 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hueppi92/join.git"
+    "url": ""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/Hueppi92/join/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/Hueppi92/join#readme",
+  "homepage": "",
   "devDependencies": {
     "better-docs": "^2.7.3",
     "jsdoc": "^4.0.5"
